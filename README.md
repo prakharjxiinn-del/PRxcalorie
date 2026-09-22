@@ -19,8 +19,7 @@
 - Supabase
 
 ## 🚀 Live Demo
-
-npx plugins add vercel/vercel-plugin
+https://prx-caloriecalculator.vercel.app/
 
 
 ##Structure for my prroject 
