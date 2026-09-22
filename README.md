@@ -1,11 +1,10 @@
-# Clay Cuisine Calorie Counter
+# PRXCalorie Counter
 
 i want to make a calorie calculator  read  PRD of my project and take inspo fromhttps://www.caloriedetails.com/ai-calorie-tracker/?msclkid=1d9626a13252128b9f284c1351300558 i wnannt eye catching ui theme should be soft clay which also gives indian food list . here the PRD
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://clay-spoon-calories.lovable.app
-
+**Live app**: npx plugins add vercel/vercel-plugin
 ## Build with Lovable
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/cc91018c-acbb-41b7-8ea7-083b24316fd7).
